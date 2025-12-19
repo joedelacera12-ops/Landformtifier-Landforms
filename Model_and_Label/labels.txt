@@ -1,0 +1,10 @@
+0 Volcano
+1 Hills
+2 Island
+3 Canyon
+4 Desert
+5 Mountains
+6 Plain
+7 Peninsula
+8 Cave
+9 Platue
